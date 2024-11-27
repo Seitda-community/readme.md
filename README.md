@@ -5,8 +5,11 @@
       <li><a href="#1"><7월>1. 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼</a></li>
       <li><a href="#2"><8월>2. 파뿌리(시니어 AI 음성케어) 플랫폼</a></li> 
       <li><a href="#3"><9월>3. 버블버블(AI 법률지식) 서비스</a></li> 
-      <li><a href="#3"><9월>4. 버블버블(AI 법률지식) 서비스</a></li> 
-      <li><a href="#3"><9월>5. 버블버블(AI 법률지식) 서비스</a></li> 
+      <li><a href="#4"><9월>4. 반디로(AI 법률지식) 서비스</a></li> 
+      <li><a href="#5"><9월>5. 훈민정음(AI 법률지식) 서비스</a></li> 
+      <li><a href="#6"><9월>5. 훈민정음(AI 법률지식) 서비스</a></li> 
+      <li><a href="#7"><9월>5. 훈민정음(AI 법률지식) 서비스</a></li> 
+      <li><a href="#8"><9월>5. 훈민정음(AI 법률지식) 서비스</a></li> 
 </ul>
 
 
@@ -17,11 +20,11 @@
 #### 2) 설명 : 지역의 문제해결 중심의 가치창출과 경제 활성화를 위한 플랫폼으로, 지역 구성원들이 (지차체, 중소기업, 소상공인, 시민)의 참여와 보상을 통해 지방자치 균형 발전과 자립을 도모<br>
 #### 3) 특징 : 블록체인 기반의 스마트컨트랙트 NFT 서비스로 대한민국의 사회문제를 지역의 구성원들이(지자체, 중소기업, 소상공인, 시민) 자발적인 참여와 보상을 통해서 함께 해결하고 경제활성화의 시너지로 순환경제 생태계를 형성하는 것<br><br>
 
-💸 회원구성(지자체/중소기업/소상공인/주민) : 지역구성원의 참여와 회원별 화면제공<br>
-💸 회원지갑(보유금액) : 현재 보유한 토큰과 NFT현황을 보여줌<br>
-💸 거래내역(년/월/일/기간지정) : 과거 모든 거래내역을 볼 수 있음<br>
-💸 토큰연동(토큰 Swap/Trade) : 보유한 토큰을 지역화폐 또는 가상자산 교환을 도와줌<br>
-💸 우리지역 마켓(NFT거래 및 지역상품) : 중소기업, 소상공인들은 상품을 홍보하고 지역에서 활용 가능한 무료주차이용권, 커피쿠폰, 지역컨텐츠 NFT 등을 사고 팔 수 있는 마켓<br><br>
+💸 회원구성(지자체/중소기업/소상공인/주민): 지역구성원의 참여와 회원별 화면제공<br>
+💸 회원지갑(보유금액): 현재 보유한 토큰과 NFT현황을 보여줌<br>
+💸 거래내역(기간지정): 과거 모든 거래내역을 볼 수 있음<br>
+💸 토큰연동(토큰 Swap/Trade): 보유한 토큰을 지역화폐 또는 가상자산 교환을 도와줌<br>
+💸 우리지역 마켓(NFT거래 및 지역상품): 중소기업, 소상공인들은 상품을 홍보하고 지역에서 활용 가능한 무료주차이용권, 커피쿠폰, 지역컨텐츠 NFT 등을 사고 팔 수 있는 마켓<br><br>
       
 #### 4) 상태 : 🚀 아이디어 완료<br>  
 [GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
@@ -48,10 +51,10 @@
 ## <div id="3">3. 버블버블(AI 법률지식) 서비스</div>
 
 <div>
-      <img width="49%" src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511" />
-      <img width="49%" src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533" />
-      <img width="49%" src="https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4" />
-      <img width="49%" src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3" />
+      <img width="49.888888%" src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511" />
+      <img width="49.888888%" src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533" />
+      <img width="49.888888%" src="https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4" />
+      <img width="49.888888%" src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3" />
 </div>
 
 #### 1) 참여 : 김도선, 이철싀
@@ -63,6 +66,6 @@
 🫧 오늘의 한 끼 : 하루 음식사진 OCR을 통해 부족/과잉을 체크<br>
 🫧 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br><br>  
       
-#### 4) 상태 : 🚀 기획 완료/ 개발 중<br>  
+#### 4) 상태 : 🚀 기획 완료 / 개발 중<br>  
 [GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
