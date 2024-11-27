@@ -48,7 +48,7 @@
 
       
 
-## <div id="3">3. 버블버블(AI 법률지식) 서비스 | 🥇 과기부 민관협력 플랫폼(특별상)</div>
+## <div id="3">3. 버블버블(AI 법률지식) 서비스 | 🥇 과기부 민관협력(특별상)</div>
 
 <div>
       <img width="49%" src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511" />
