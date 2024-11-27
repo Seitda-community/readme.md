@@ -23,7 +23,7 @@
 💸 토큰연동(토큰 Swap/Trade) : 보유한 토큰을 지역화폐 또는 가상자산 교환을 도와줌<br>
 💸 우리지역 마켓(NFT거래 및 지역상품) : 중소기업, 소상공인들은 상품을 홍보하고 지역에서 활용 가능한 무료주차이용권, 커피쿠폰, 지역컨텐츠 NFT 등을 사고 팔 수 있는 마켓<br><br>
       
-#### 상태 : 🚀 아이디어 완료<br>  
+#### 4) 상태 : 🚀 아이디어 완료<br>  
 [GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
 
@@ -40,7 +40,7 @@
 🌱 오늘의 한 끼 : 하루 음식사진 OCR을 통해 부족/과잉을 체크<br>
 🌱 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br><br>  
 
-#### 상태 : 🚀 아이디어 완료<br>  
+#### 4) 상태 : 🚀 아이디어 완료<br>  
 [GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
       
@@ -50,8 +50,6 @@
 <div style="display:flex;">
       <img src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511">
       <img src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533">
-</div>
-<div style="display:flex;">
       <img src="https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4">
       <img src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3">
 </div>
@@ -65,6 +63,6 @@
 🫧 오늘의 한 끼 : 하루 음식사진 OCR을 통해 부족/과잉을 체크<br>
 🫧 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br><br>  
       
-#### 상태 : 🚀 기획 완료/ 개발 중<br>  
+#### 4) 상태 : 🚀 기획 완료/ 개발 중<br>  
 [GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
