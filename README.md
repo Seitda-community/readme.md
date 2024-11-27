@@ -1,5 +1,3 @@
-# readme.md
-
 # Seitda Community Services (7월~현재)
 
 ## 1. [서비스 이름](#링크)
