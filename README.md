@@ -1,4 +1,4 @@
-# Seitda Services planning & development (7월~현재)
+# Seitda Services 기획/개발 (7월~현재)
 
 ### 📋 목차
 <ul>
