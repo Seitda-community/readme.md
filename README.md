@@ -75,13 +75,13 @@
 
 <div>
       <img width="49%" src="https://github.com/user-attachments/assets/35bde2e7-e38d-45ea-bd4a-7fb80799e130"/>
-      <img width="49%" src="https://github.com/user-attachments/assets/9354b23f-2705-4ed2-8e3a-256d69ae1efe"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/2b4123a5-2ab4-4c7d-94ce-f854195f1660"/>
       <img width="49%" src="https://github.com/user-attachments/assets/d7aed943-9968-4465-b74b-81b037bc80dd"/>
       <img width="49%" src="https://github.com/user-attachments/assets/f43e52d6-503c-43b3-b03d-490fcbac8221"/>
 </div>
 
 #### 1) 참여 : 김도선, 주선형, 박영석
-#### 2) 설명 : 법률 사각지대를 최소화하고, 법률복지 향상을 돕는 ‘AI 법률지식 서비스’ 로 한글을 모르면 책을 읽을 수 없듯 대한민국의 법률지식 수준에 따른 사회적 경제적 비용과 국가 경쟁력, 개인 삶의 질까지 변화 시킬 수 있는 민관협력을 통한 사용자 눈높이 서비스
+#### 2) 설명 : 
 #### 3) 특징 : 
 
 🫧 자주쓰는 키워드 : 사용자 정보돠 실시간 키워드 분석을 통한 추천<br>
@@ -89,5 +89,5 @@
 🫧 버블버블 퀴즈 : 사용자 정보기반 개인 맞춤형 학습<br>
 🫧 버블버블 GPT : 사용자 정보기반 통합 생성형 지식서비스<br><br>  
       
-#### 4) 상태 : 🚀 기획 완료 / 개발 중<br>  
+#### 4) 상태 : 🚀 기획 완료 <br>  
 
