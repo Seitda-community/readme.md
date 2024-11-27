@@ -38,20 +38,26 @@
 🌱 우리마을 소식 : 우리마을 모든 활동이 모인 곳, 공동체와 주도적 활동 가능<br>
 🌱 오늘의 한 끼 : 하루 음식사진 OCR을 통해 부족/과잉을 체크<br>
 🌱 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br>
+
+#### 상태 : 🚀 아이디어 완료<br>  
+[GitHub 저장소](https://github.com/Seitda-community/)
+
       
 
 ### 3. 버블버블(AI 법률지식) 플랫폼
-<ul>
-      <li><img src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511"></li>
-      <li>![22](https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533)</li>
-      <li>![33](https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4)</li>
-      <li>![44](https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3)</li>
-</ul>
 
-#### 1) 참여 : 김도선, 이영권, 김진석, 석우탁
-#### 2) 설명 : ‘파뿌리’ 서비스는 (파뿌리는, 검은머리에서 파뿌리처럼 하얗게 변한 은퇴한 베이붐 세대와 시니어 노인을 지칭)한다. <br>
-위에 사회 문제들을 극복하고 각 지자체 순환경제 강점과 시니어 사용자들의 눈높이에 맞는 디지털 플랫폼으로 사회문제를 해결할 수 있는 키워드 및 방향성 5가지와 서비스의 핵심가치 4가지를 제안
-#### 3) 특징 : '파뿌리' 특징은 쉽고, 간단하며 복잡한 기능과 서비스를 제거하여 파뿌리 세대에 가장 필요한 메뉴와 기능만 적용하여 최대한 고령화에게 쉽고 편한 지속가능한 서비스가 되는 것<br><br>
+<tr>
+      <td><img src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511"></td>
+      <td>![22](https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533)</td>
+</tr>
+<tr>
+      <td>![33](https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4)</td>
+      <td>![44](https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3)</td>
+</tr>
+
+#### 1) 참여 : 김도선, 이철싀
+#### 2) 설명 : 
+#### 3) 특징 : 
 
 🌱 오늘의 뉴스 : AI음성 서비스로 하루의 일상과 마을소식을 큐레이션하여 제공<br>
 🌱 우리마을 소식 : 우리마을 모든 활동이 모인 곳, 공동체와 주도적 활동 가능<br>
