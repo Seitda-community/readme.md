@@ -47,14 +47,14 @@
 
 ## 3. 버블버블(AI 법률지식) 서비스
 
-<ul style="display:flex;">
-      <li><img src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511"></li>
-      <li><img src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533"></li>
-</ul>
-<ul>
-      <td><img src="https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4"></td>
-      <td><img src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3"></td>
-</ul>
+<div style="display:flex;">
+      <img src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511">
+      <img src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533">
+</div>
+<div style="display:flex;">
+      <img src="https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4">
+      <img src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3">
+</div>
 
 #### 1) 참여 : 김도선, 이철싀
 #### 2) 설명 : 
