@@ -26,7 +26,7 @@
 [GitHub 저장소](https://github.com/Seitda-community/)
 
 
-### 2. 파뿌리(시니어 AI 음성케어) 플랫폼
+### 2. 파뿌리(시니어 AI 음성케어) 플랫폼
 ![파뿌리_서비스구성](https://github.com/user-attachments/assets/4e3a9f0c-9df6-4dde-97e8-1734595e75e6)
 
 #### 1) 참여 : 김도선, 이영권, 김진석, 석우탁
