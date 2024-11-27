@@ -75,7 +75,7 @@
 
 <div>
       <img width="49%" src="https://github.com/user-attachments/assets/35bde2e7-e38d-45ea-bd4a-7fb80799e130"/>
-      <img width="49%" src="https://github.com/user-attachments/assets/2b4123a5-2ab4-4c7d-94ce-f854195f1660"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/9f2ddcef-4a1b-4dd5-ae03-ef4d9d278983"/>
       <img width="49%" src="https://github.com/user-attachments/assets/d7aed943-9968-4465-b74b-81b037bc80dd"/>
       <img width="49%" src="https://github.com/user-attachments/assets/f43e52d6-503c-43b3-b03d-490fcbac8221"/>
 </div>
