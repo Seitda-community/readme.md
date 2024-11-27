@@ -24,7 +24,7 @@
 💸 우리지역 마켓(NFT거래 및 지역상품) : 중소기업, 소상공인들은 상품을 홍보하고 지역에서 활용 가능한 무료주차이용권, 커피쿠폰, 지역컨텐츠 NFT 등을 사고 팔 수 있는 마켓<br><br>
       
 #### 상태 : 🚀 아이디어 완료<br>  
-[GitHub 저장소](https://github.com/Seitda-community/)
+[GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
 
 ## <div id="2">2. 파뿌리(시니어 AI 음성케어) 플랫폼</div>
@@ -41,7 +41,7 @@
 🌱 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br><br>  
 
 #### 상태 : 🚀 아이디어 완료<br>  
-[GitHub 저장소](https://github.com/Seitda-community/)
+[GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
       
 
@@ -66,5 +66,5 @@
 🫧 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br><br>  
       
 #### 상태 : 🚀 기획 완료/ 개발 중<br>  
-[GitHub 저장소](https://github.com/Seitda-community/)
+[GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
 
