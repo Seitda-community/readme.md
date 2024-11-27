@@ -1,4 +1,4 @@
-# Seitda Community Services planning & development (7월~현재)
+# Seitda Services planning & development (7월~현재)
 
 ## 📋 목차
 - [7월, 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼](#7월)
