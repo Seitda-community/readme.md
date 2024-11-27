@@ -8,7 +8,7 @@
 </ul>
 
 
-<div id="1">## 1. 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼</div>
+## <div id="1">1. 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼</div>
 ![111](https://github.com/user-attachments/assets/bf9e4d6a-8bb0-47c9-8f89-89b75b3d3695)
 
 #### 1) 참여 : 김도선, 김혜성, 구본욱
@@ -25,7 +25,7 @@
 [GitHub 저장소](https://github.com/Seitda-community/)
 
 
-<div id="2">## 2. 파뿌리(시니어 AI 음성케어) 플랫폼</div>
+## <div id="2">2. 파뿌리(시니어 AI 음성케어) 플랫폼</div>
 ![파뿌리_서비스구성](https://github.com/user-attachments/assets/4e3a9f0c-9df6-4dde-97e8-1734595e75e6)
 
 #### 1) 참여 : 김도선, 이영권, 김진석, 석우탁
