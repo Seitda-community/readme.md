@@ -57,7 +57,7 @@
       <img width="49%" src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3" />
 </div>
 
-#### 1) 참여 : 김도선, 이철싀
+#### 1) 참여 : 김도선, 이철희
 #### 2) 설명 : 
 #### 3) 특징 : 
 
