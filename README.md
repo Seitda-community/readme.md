@@ -48,7 +48,7 @@
 
 <tr>
       <td><img src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511"></td>
-      <td>![22](https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533)</td>
+      <td><img src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533"></td>
 </tr>
 <tr>
       <td>![33](https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4)</td>
