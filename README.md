@@ -5,11 +5,11 @@
       <li><a href="#1">1. 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼</a></li>
       <li><a href="#2">2. 파뿌리(시니어 AI 음성케어) 플랫폼</a></li> 
       <li><a href="#3">3. 버블버블(AI 법률지식) 서비스</a></li> 
-      <li><a href="#4">4. 반디로(AI 법률지식) 서비스</a></li> 
-      <li><a href="#5">5. 훈민정음(AI 법률지식) 서비스</a></li> 
+      <li><a href="#4">4. 반디로(위치기반 도보 네비게이션) 서비스</a></li> 
+<!--       <li><a href="#5">5. 훈민정음(AI 법률지식) 서비스</a></li> 
       <li><a href="#6">6. 훈민정음(AI 법률지식) 서비스</a></li> 
       <li><a href="#7">7. 훈민정음(AI 법률지식) 서비스</a></li> 
-      <li><a href="#8">8. 훈민정음(AI 법률지식) 서비스</a></li>
+      <li><a href="#8">8. 훈민정음(AI 법률지식) 서비스</a></li> -->
 </ul>
 
 
@@ -48,7 +48,7 @@
 
       
 
-## <div id="3">3. 버블버블(AI 법률지식) 서비스 | 🥇 과기부 민관협력(특별상)</div>
+## <div id="3">3. 버블버블(AI 법률지식) 서비스 | 🥇 과기부 민관협력 플랫폼(특별상)</div>
 
 <div>
       <img width="49%" src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511" />
@@ -71,16 +71,16 @@
 
 
 
-## <div id="4">4. 반디로(AI 법률지식) 서비스</div>
+## <div id="4">4. 반디로(위치기반 도보 네비게이션) 서비스 | 🥇 국토부 공간정보활용(우수상)</div>
 
 <div>
-      <img width="49%" src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511" />
-      <img width="49%" src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533" />
-      <img width="49%" src="https://github.com/user-attachments/assets/8e9c8a38-9fde-4b4e-81a0-93aae22abfe4" />
-      <img width="49%" src="https://github.com/user-attachments/assets/73245baf-1ec5-4b8c-b579-8d1d63b19cf3" />
+      <img width="49%" src="https://github.com/user-attachments/assets/35bde2e7-e38d-45ea-bd4a-7fb80799e130"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/9354b23f-2705-4ed2-8e3a-256d69ae1efe"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/d7aed943-9968-4465-b74b-81b037bc80dd"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/f43e52d6-503c-43b3-b03d-490fcbac8221"/>
 </div>
 
-#### 1) 참여 : 김도선, 이철희
+#### 1) 참여 : 김도선, 주선형, 박영석
 #### 2) 설명 : 법률 사각지대를 최소화하고, 법률복지 향상을 돕는 ‘AI 법률지식 서비스’ 로 한글을 모르면 책을 읽을 수 없듯 대한민국의 법률지식 수준에 따른 사회적 경제적 비용과 국가 경쟁력, 개인 삶의 질까지 변화 시킬 수 있는 민관협력을 통한 사용자 눈높이 서비스
 #### 3) 특징 : 
 
