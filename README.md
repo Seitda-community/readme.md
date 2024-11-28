@@ -44,7 +44,7 @@
 🌱 오늘의 이야기 : 1:1 챗봇서비스로 감성분석을 통한 컨텐츠 제공<br><br>  
 
 #### 4) 상태 : 🚀 아이디어 완료<br>  
-[GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
+[GitHub 저장소] : https://github.com/Seitda-community/<br><br> 
 
       
 
