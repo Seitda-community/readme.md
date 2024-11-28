@@ -92,15 +92,15 @@
 ## <div id="5">5. 훈민정음(데이터 행정을 위한 지도기반) 서비스</div>
 
 <div>
-      <img width="49%" src="https://github.com/user-attachments/assets/35bde2e7-e38d-45ea-bd4a-7fb80799e130"/>
-      <img width="49%" src="https://github.com/user-attachments/assets/9f2ddcef-4a1b-4dd5-ae03-ef4d9d278983"/>
-      <img width="49%" src="https://github.com/user-attachments/assets/d7aed943-9968-4465-b74b-81b037bc80dd"/>
-      <img width="49%" src="https://github.com/user-attachments/assets/f43e52d6-503c-43b3-b03d-490fcbac8221"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/e189a5e4-da95-454e-9403-2e10723b62a8"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/6900147c-ebb9-4342-8d58-eef9f928a4ff"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/1b451eb3-a9ce-4436-aa64-622f9bbd1528"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/411c990f-c6ac-4d08-ab57-5611975d3b93"/>
 </div>
 
-#### 1) 참여 : 김도선, 주선형, 박영석
-#### 2) 설명 : 브이월드 데이터를 활용한 위치 서비스로 사용자가 제공한 기본 정보를 바탕으로 (성별, 나이, 시간대, 난이도 등) 다양한 테마와 생활 속에서 찾을 수 있는 다양한 종류의 길을 안내 및 추천하는 맞춤형 도보 네비게이션
-#### 3) 특징 : 
+#### 1) 참여 : 김도선, 최재일, 정인석
+#### 2) 설명 : 세종시 데이터를 ‘훈민정음’의 천·지·인 개념으로 나누어 분석하는 방법으로, 각 데이터를 천, 지, 인의 요소로 구분함으로 데이터의 본질을 구체화하고, 분석 목표에 따른 데이터를 명확하게 분류
+#### 3) 특징 : 훈민정음의 천·지·인 요소는 서로 독립적이기보다는 상호 연관성을 가지고 있습니다. 각 데이터가 서로에게 영향을 미치므로, 통합 분석이 중요함
 
 🪲 안전분석 도로 : 지형에 따른 위험도 분석을 통한 추천(동행, 모험, 안전로)<br>
 🪲 감성분석 도로 : 긍정 또는 부정평가를 바탕으로 감성도로 추천(따뜻, 행복, 힐링로)<br>
