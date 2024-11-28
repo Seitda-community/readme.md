@@ -9,7 +9,7 @@
       <li><a href="#5">5. 훈민정음(데이터 행정을 위한 지도기반) 서비스</a></li> 
       <li><a href="#6">6. 성심당(소비와 트랜드 분석) 서비스</a></li> 
 </ul>
-<br><br><br>
+
 ## <div id="1">1. 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼</div>
 ![111](https://github.com/user-attachments/assets/bf9e4d6a-8bb0-47c9-8f89-89b75b3d3695)
 
