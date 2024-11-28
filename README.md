@@ -67,7 +67,7 @@
 🫧 버블버블 GPT : 사용자 정보기반 통합 생성형 지식서비스<br><br>  
       
 #### 4) 상태 : 🚀 기획 완료 / 개발 중<br>  
-[GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
+[GitHub 저장소](https://github.com/bubblebubble-labs))<br><br> 
 
 
 
@@ -91,3 +91,7 @@
       
 #### 4) 상태 : 🚀 기획 완료 <br>  
 [GitHub 저장소](https://github.com/Seitda-community/)<br><br> 
+
+
+
+
