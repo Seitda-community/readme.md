@@ -113,6 +113,31 @@
 <!--[GitHub 저장소](https://github.com/Seitda-community/)--><br><br> 
 
 
+## <div id="6">6. 성심당(소비와 트랜드 분석) 서비스</div>
+
+<div>
+      <img width="49%" src="https://github.com/user-attachments/assets/3fd07968-0198-493c-b36a-d0e515d10a0d"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/6187243d-bef9-489f-8d04-81e173aafba3"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/e3afa5fb-2661-4a6b-ac7b-a9e508a3e639"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/185c8c28-5223-4e98-9e9e-d79e2f20bef8"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/5d089e8f-e363-4308-a363-2fb11756d3de"/>
+      <img width="49%" src="https://github.com/user-attachments/assets/117d9dd2-0d75-4a28-8fbb-eef23a4040d7"/>
+</div>
+
+#### 1) 참여 : 김도선, 박고은, 정인석
+#### 2) 설명 : 세종시 데이터를 ‘훈민정음’의 천·지·인 개념으로 나누어 분석하는 방법으로, 각 데이터를 천, 지, 인의 요소로 구분함으로 데이터의 본질을 구체화하고, 분석 목표에 따른 데이터를 명확하게 분류
+#### 3) 특징 : 훈민정음의 천·지·인 요소는 서로 독립적이기보다는 상호 연관성을 가지고 있습니다. 각 데이터가 서로에게 영향을 미치므로, 통합 분석이 중요
+
+🗺️ 시민 데이터(人) : 시민 의견을 텍스트 마이닝, 민원 데이터 해결된 실제 데이터를 활용(세종시 민원(크롤링) + 한눈에 보는 민원 빅데이터)<br>
+🗺️ 유동 데이터(天) : 실시간 날씨 데이터, 경제 지표 변화추이, 인구이동 패턴분석(세종시 빅데이터 플랫폼)<br>
+🗺️ 고정 데이터(地) : 도시 인프라 현황, 인구통계 정보 현황, 예산 및 재정 데이터(세종시 통계포털)<br>
+🗺️ 데이터 지도(한눈에) : 천지인 데이터를 한눈에, 테마분석 데이터 연동, 시민 체감지수 활용, GPT 서포터  정책 활용<br>
+🗺️ GPT 서포터 : 민원 중 해결된 답변을 중심으로, GPT서포터 검색을 통해 정책제안, 정책 관련 보고서나 연구자료 검색<br>
+🗺️ 피드백 및 개선 : 최신 GPT 데이터 베이스를 반영 후 피드백 개선<br>
+      
+#### 4) 상태 : 🚀 기획 완료 <br>  
+
+
 
 
 
