@@ -49,7 +49,6 @@
       
 
 ## <div id="3">3. 버블버블(AI 법률지식) 서비스 | 🥇 과기부 민관협력 플랫폼(특별상)</div>
-
 <div>
       <img width="49%" src="https://github.com/user-attachments/assets/0fc89179-c666-437b-8b1d-5b535c168511" />
       <img width="49%" src="https://github.com/user-attachments/assets/0e65cd17-687a-4b46-b706-641910135533" />
@@ -67,7 +66,7 @@
 🫧 버블버블 GPT : 사용자 정보기반 통합 생성형 지식서비스<br><br>  
       
 #### 4) 상태 : 🚀 기획 완료 / 개발 중<br>  
-[GitHub 저장소](https://github.com/bubblebubble-labs))<br><br> 
+[GitHub 저장소(https://github.com/bubblebubble-labs)] <br><br> 
 
 
 
