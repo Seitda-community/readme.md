@@ -1,5 +1,3 @@
-![KakaoTalk_Photo_2024-12-04-18-47-47](https://github.com/user-attachments/assets/ed7c0f14-d511-45bb-909e-42ae036d6c62)# Seitda Services 진행사항 (7월부터 - 현재)
-
 ### 📋 목차
 <ul>
       <li><a href="#1">1. 알쓸거래(알고보니 쓸모있고 유익한 거래) 플랫폼</a></li>
